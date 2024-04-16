@@ -13,6 +13,10 @@ The project aims to showcase the following manipulations on a div element:
 - Change height to 200 pixels
 - Modify width to 300 pixels
 
+## How to View Hosted Version
+
+The hosted version of this project is available at https://himanshusondhiya07.github.io/DOM-Manipulation/ . Click the link to access the live version.
+
 ## Project Structure
 The project consists of the following files:
 
